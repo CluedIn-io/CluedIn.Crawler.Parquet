@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\Parquet.Core\Crawling.Parquet.Core.csproj" />
+    <ProjectReference Include="..\..\..\src\Parquet.Crawling\Crawling.Parquet.csproj" />
+    <ProjectReference Include="..\..\..\src\Parquet.Infrastructure\Crawling.Parquet.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>
